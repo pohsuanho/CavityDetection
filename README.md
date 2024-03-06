@@ -5,6 +5,9 @@ Users can simply upload radiographs to the webpage, where the images will then b
 
 
 Training and Validation Loss graph: 
+
+
+
 <img width="746" alt="image" src="https://github.com/pohsuanho/CavityDetection/assets/96603996/e60f58f4-8bb4-401a-b01a-67e7d02567c5">
 
 The final accuracy on test data: 58.43%
