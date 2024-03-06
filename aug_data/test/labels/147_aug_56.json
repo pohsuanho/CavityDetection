@@ -1,0 +1,25 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.1484375,
+                    0.5998263888888888
+                ],
+                [
+                    0.556423611111111,
+                    0.8993055555555556
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "147.jpg"
+}

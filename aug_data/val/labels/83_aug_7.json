@@ -1,0 +1,79 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.4880573971483063,
+                    0.7894832440286986
+                ],
+                [
+                    0.6140677504313867,
+                    0.9075469984560893
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.35182998819362454,
+                    0.7792661883570975
+                ],
+                [
+                    0.48124602670057204,
+                    0.9086822268640451
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.05667060212514763,
+                    0.254790663881573
+                ],
+                [
+                    0.15543547361729182,
+                    0.4352919807465263
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.0,
+                    0.2922532013441105
+                ],
+                [
+                    0.06234674416492603,
+                    0.40237035691581147
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "83.png"
+}

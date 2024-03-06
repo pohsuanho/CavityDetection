@@ -1,0 +1,79 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.3859322495686132,
+                    0.09245300154391063
+                ],
+                [
+                    0.5119426028516937,
+                    0.2105167559713014
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.518753973299428,
+                    0.09131777313595495
+                ],
+                [
+                    0.6481700118063755,
+                    0.22073381164290254
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.8445645263827082,
+                    0.5647080192534737
+                ],
+                [
+                    0.9433293978748524,
+                    0.745209336118427
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.937653255835074,
+                    0.5976296430841885
+                ],
+                [
+                    1.0,
+                    0.7077467986558895
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "83.png"
+}

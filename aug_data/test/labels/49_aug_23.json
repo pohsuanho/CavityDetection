@@ -1,0 +1,97 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.04758877486150226,
+                    0.5999000999000998
+                ],
+                [
+                    0.1497593315775133,
+                    0.798565071292344
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.14067750431386794,
+                    0.588547815820543
+                ],
+                [
+                    0.2405776042139678,
+                    0.8031059849241667
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.6583416583416584,
+                    0.6407683225865044
+                ],
+                [
+                    0.7241849060030878,
+                    0.7758605031332304
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.5084915084915085,
+                    0.1844065025883208
+                ],
+                [
+                    0.5856870402324947,
+                    0.32971573880664795
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.43129597675052234,
+                    0.1787303605485423
+                ],
+                [
+                    0.5096267368994642,
+                    0.30474071383162293
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "49.png"
+}

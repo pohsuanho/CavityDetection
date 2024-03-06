@@ -1,0 +1,79 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.8467895740623013,
+                    0.7872127872127872
+                ],
+                [
+                    0.9330669330669331,
+                    0.8973299427844883
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.7684588139133595,
+                    0.7815366451730088
+                ],
+                [
+                    0.8467895740623013,
+                    0.8996003996003996
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.43356643356643365,
+                    0.7452093361184271
+                ],
+                [
+                    0.5209790209790209,
+                    0.845109436018527
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.5187085641631095,
+                    0.7497502497502497
+                ],
+                [
+                    0.5834165834165834,
+                    0.851920806466261
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "47.png"
+}

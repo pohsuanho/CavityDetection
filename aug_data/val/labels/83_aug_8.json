@@ -1,0 +1,79 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.3859322495686132,
+                    0.7894832440286986
+                ],
+                [
+                    0.5119426028516937,
+                    0.9075469984560893
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.518753973299428,
+                    0.7792661883570975
+                ],
+                [
+                    0.6481700118063755,
+                    0.9086822268640451
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.8445645263827082,
+                    0.254790663881573
+                ],
+                [
+                    0.9433293978748524,
+                    0.4352919807465263
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.937653255835074,
+                    0.2922532013441105
+                ],
+                [
+                    1.0,
+                    0.40237035691581147
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "83.png"
+}

@@ -1,0 +1,79 @@
+{
+    "version": "5.4.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.20656616111161566,
+                    0.1696485332848969
+                ],
+                [
+                    0.27467986558895646,
+                    0.30247025701571156
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.2735446371810008,
+                    0.1878121878121878
+                ],
+                [
+                    0.3586867677776769,
+                    0.30587594223957865
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.4597220960857325,
+                    0.6770956316410862
+                ],
+                [
+                    0.5278358005630733,
+                    0.7917537008446099
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        },
+        {
+            "label": "decay",
+            "points": [
+                [
+                    0.9365180274271181,
+                    0.6498501498501499
+                ],
+                [
+                    1.0,
+                    0.7565616201979838
+                ]
+            ],
+            "group_id": null,
+            "description": "",
+            "shape_type": "rectangle",
+            "flags": {},
+            "mask": null
+        }
+    ],
+    "imagePath": "33.png"
+}
