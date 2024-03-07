@@ -15,7 +15,10 @@ A local server will pop up as below:
 
 <img width="815" alt="image" src="https://github.com/pohsuanho/CavityDetection/assets/96603996/98b28b71-18c4-4bca-a02f-554246384139">
 
-Upload the radiograph of your own and it will give you a processed image like this: <img width="221" alt="image" src="https://github.com/pohsuanho/CavityDetection/assets/96603996/1b44f573-9703-49a8-b57b-2946caf30b45">
+Upload the radiograph of your own and it will give you a processed image like this: 
+
+<img width="221" alt="image" src="https://github.com/pohsuanho/CavityDetection/assets/96603996/1b44f573-9703-49a8-b57b-2946caf30b45">
+
 circling out the concerned area.
 
 
